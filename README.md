@@ -54,6 +54,6 @@ body {
 
 ---
 
-> **You can generate more clip path from this site** 👉 [site Link](D:\learn\advanced-css-course-master\Natours\starter\md-images\3.png)
+> **You can generate more clip path from this site** 👉 [site Link](https://bennettfeely.com/clippy/)
 
 ![example](md-images/3.png)
