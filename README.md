@@ -20,7 +20,7 @@ html{
 }
 
 body {
-    Never add font family in universal selector
+    <!-- Never add font family in universal selector -->
     font-family: font name;
 }
 ```
