@@ -26,6 +26,8 @@ body {
 }
 ```
 
+---
+
 ### 👉 Header Background + Image
 
 ![example](md-images/2.png)
@@ -49,6 +51,8 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }
 ```
+
+---
 
 > **You can generate more clip path from this site** 👉 [site Link](D:\learn\advanced-css-course-master\Natours\starter\md-images\3.png)
 
