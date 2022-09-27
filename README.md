@@ -57,3 +57,32 @@ body {
 > **You can generate more clip path from this site** 👉 [site Link](https://bennettfeely.com/clippy/)
 
 ![example](md-images/3.png)
+
+---
+
+### 👉 Logo
+
+![logo](md-images/4.png)
+
+```
+  <div class="logo-box">
+        <img src="img/logo-white.png" alt="logo" class="logo" />
+  </div>
+
+  .header{
+    position: relative;
+  }
+
+  .logo-box {
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+}
+
+.logo {
+  height: 3.5rem;
+}
+
+```
+
+---
