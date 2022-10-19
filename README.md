@@ -35,7 +35,7 @@ body {
 ![example](md-images/2.png)
 
 - **Background size cover** means covering the whole div which also includes zoom in the picture.
-- **Background size contain** means it will not zoom in th epic and exact size of the image will be displayed.
+- **Background size contain** means it will not zoom in the pic and exact size of the image will be displayed.
 - The **clip-path** property creates a clipping region where content within it is visible, and content outside it is invisible.
 - Always set **image url** after the **background gradient**.
 
