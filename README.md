@@ -6,9 +6,9 @@
 
 ![First lecture](md-images/lecture%201.png)
 
-### 👉 Basic Reset
+### 1. Basic Reset 👇
 
-> 1. Instead of adding font-family in universal selector, add it in a body selector.
+- Instead of adding font-family in universal selector, add it into a body selector.
 
 ```
 * {
@@ -28,14 +28,16 @@ body {
 
 ---
 
-### 👉 Header Background + Image
+<br />
+
+### 2. Header Background + Image 👇
 
 ![example](md-images/2.png)
 
-> 1. **Background size cover** means covering the whole div which also includes zoom in the picture.
-> 2. **Background size contain** means it will not zoom in th epic and exact size of the image will be displayed.
-> 3. The **clip-path** property creates a clipping region where content within it is visible, and content outside it is invisible.
-> 4. Always set **image url** after the **background gradient**.
+- **Background size cover** means covering the whole div which also includes zoom in the picture.
+- **Background size contain** means it will not zoom in th epic and exact size of the image will be displayed.
+- The **clip-path** property creates a clipping region where content within it is visible, and content outside it is invisible.
+- Always set **image url** after the **background gradient**.
 
 ```
 .header {
@@ -54,13 +56,17 @@ body {
 
 ---
 
-> **You can generate more clip path from this site** 👉 [site Link](https://bennettfeely.com/clippy/)
+</br>
+
+### **_You can generate more clip path from this site_** 👉 [site Link](https://bennettfeely.com/clippy/)
 
 ![example](md-images/3.png)
 
 ---
 
-### 👉 Logo
+<br />
+
+### 3 Logo 👇
 
 ![logo](md-images/4.png)
 
@@ -86,3 +92,5 @@ body {
 ```
 
 ---
+
+<br />
