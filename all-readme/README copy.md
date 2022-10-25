@@ -1,36 +1,3 @@
-<br />
-
-<br />
-
-### 4 Logo 👇
-
-![logo](md-images/4.png)
-
-```
-  <div class="logo-box">
-        <img src="img/logo-white.png" alt="logo" class="logo" />
-  </div>
-
-  .header{
-    position: relative;
-  }
-
-  .logo-box {
-  position: absolute;
-  top: 4rem;
-  left: 4rem;
-}
-
-.logo {
-  height: 3.5rem;
-}
-
-```
-
----
-
-<br />
-
 ### 4 Centering text-box with 'POSITION + TRANSLATE) 👇
 
 ![logo](md-images/5.png)
