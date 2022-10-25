@@ -6,6 +6,8 @@
 
 Create an `anchor element` with the class name `btn`
 
+Code example 👇
+
 ```
 <a href="#" class="btn btn-white btn-animated">Discover our tours</a>
 ```
@@ -43,6 +45,8 @@ Code example 👇
 - `:after` will create a content just after button with `100% height and width`.
 - `absolute` will arrange the `after content` in the exact position of the button
 
+Code example 👇
+
 ```
 .btn-white {
   background-color: var(--white);
@@ -70,6 +74,8 @@ Code example 👇
 
 - `scale` will zoom in the content and with the help of `opacity:0` it will get invisible.
 
+Code example 👇
+
 ```
 .btn:hover::after {
   transform: scaleX(1.4) scaleY(1.6);
@@ -81,6 +87,8 @@ Code example 👇
 
 - If we don't use `animation-fill-mode backwards` then the button will show in the starting and after 0.75s it will apply animation.
 - So backwards help us to assign the `animation before the delay`.
+
+Code example 👇
 
 ```
 .btn-animated {
