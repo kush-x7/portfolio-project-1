@@ -1,4 +1,4 @@
-# Background image + gradient + clip-path
+# Background Image + Gradient + Clip Path
 
 ![example image](../md-images/2.png)
 
