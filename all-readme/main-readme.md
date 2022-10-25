@@ -11,4 +11,4 @@
 9. [How Css Apply Styling](md-topics/9-css-apply.md)
 10. [BEM structure](md-topics/10-bem.md)
 11. [SASS Folder Structure](md-topics/11-sass.md)
-12. [SASS Features](md-topics/12-sass.md)
+12. [SASS Features](md-topics/12-about-sass.md)
