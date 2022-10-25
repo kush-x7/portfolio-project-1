@@ -1,11 +1,12 @@
-$color-grey-light-1: #f7f7f7;
+# Gradient Heading Using Clip Path
 
-.section-about {
-  background-color: $color-grey-light-1;
-  padding: 25rem 0;
-  margin-top: -20vh;
-}
+![example](../md-images/../all-readme/md-images/14.png)
 
+`-webkit-background-clip: text;` this will clip the background below the text and by using `color:transparent` we can show the gradient text. Also we have used `skew` for animation.
+
+Code example 👇
+
+```
 .heading-secondary {
   font-size: 3.5rem;
   text-transform: uppercase;
@@ -26,3 +27,4 @@ $color-grey-light-1: #f7f7f7;
     text-shadow: 0.5rem 1rem 2rem rgba($color-black, 0.2);
   }
 }
+```
