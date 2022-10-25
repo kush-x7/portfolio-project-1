@@ -10,5 +10,6 @@ Run `yarn install` or `yarn` after opening the repository in your editor. This w
 
 ## My Learning
 
-Made a proper markdown in which I have mentioned all the things which I have learnt while making this project.
-[Click here ](all-readme/README.md)
+For quick revision: [Click here ](all-readme/main-readme.md)
+
+Made a proper markdown in which I have mentioned all the things I have learnt while making this project.
