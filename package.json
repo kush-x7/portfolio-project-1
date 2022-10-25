@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kush-x7/portfolio-project-1.git",
+  "author": "kushagra <kushagratripathi7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
