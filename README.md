@@ -7,3 +7,8 @@ Code deployed on: https://kush-p1.netlify.app/
 ## Running the project
 
 Run `yarn install` or `yarn` after opening the repository in your editor. This will install all the necessary packages for the project which are mentioned in the `pacakage.json` file of the project.
+
+## My Learning
+
+Made a proper markdown in which I have mentioned all the things which I have learnt while making this project.
+[Click here ](all-readme/README.md)
