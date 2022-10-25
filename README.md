@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f178400b-1528-4bae-b454-8cddfd2fde0b/deploy-status)](https://app.netlify.com/sites/realdevsquad/deploys) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/5hut.svg)](https://betteruptime.com/?utm_source=status_badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f03343b-903e-4a5c-8212-740dc240d24b/deploy-status)](https://app.netlify.com/sites/kush-p1/deploys)
 
 # Website
 
-Code deployed on:
+Code deployed on: https://kush-p1.netlify.app/
 
 ## Running the project
 
