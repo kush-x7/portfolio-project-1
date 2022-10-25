@@ -14,7 +14,7 @@ $gutter-horizontal: 6rem;
 
 .row {
   max-width: $grid-width;
-  background-color: rgb(211, 209, 209);
+
   margin: 0 auto;
 
   &:not(:last-child) {
@@ -25,7 +25,6 @@ $gutter-horizontal: 6rem;
 
   //   Class starting with name col
   [class^="col-"] {
-    background-color: orangered;
     float: left;
 
     &:not(:last-child) {
