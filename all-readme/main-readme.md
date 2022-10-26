@@ -13,4 +13,5 @@
 11. [SASS Folder Structure](md-topics/11-sass.md)
 12. [SASS Features](md-topics/12-about-sass.md)
 13. [Make Grid Using Float](md-topics/13-float.md)
-14. [Gradient Heading Using Clip Path]()
+14. [Gradient Heading Using Clip Path](md-topics/14-heading.md)
+15. [Images Gallery](md-topics/15%3Dimage.md)
