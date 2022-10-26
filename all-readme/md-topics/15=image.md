@@ -1,5 +1,7 @@
 # Images Gallery
 
+![example](md-images/../../md-images/15.png)
+
 ## Creating HTML Structure
 
 We will create a `composition div` which will contain `3 images`
