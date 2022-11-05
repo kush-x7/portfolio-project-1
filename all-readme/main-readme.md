@@ -14,4 +14,5 @@
 12. [SASS Features](md-topics/12-about-sass.md)
 13. [Make Grid Using Float](md-topics/13-float.md)
 14. [Gradient Heading Using Clip Path](md-topics/14-heading.md)
-15. [Images Gallery](md-topics/15%3Dimage.md)
+15. [Images Gallery](md-topics//15-image.md)
+16. [Using Icons Font](md-topics/16-icons.md)
