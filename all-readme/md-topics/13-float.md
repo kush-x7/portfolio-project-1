@@ -46,7 +46,7 @@ Code example 👇
 
 ## CSS Structure
 
-- On using `float` height og the div become `0` so to fix this issue we use `clearfix`
+- On using `float` height on the div become `0` so to fix this issue we use `clearfix`
 
 Code example 👇
 
