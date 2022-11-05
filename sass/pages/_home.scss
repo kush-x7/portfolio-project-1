@@ -15,4 +15,11 @@ $color-grey-light-1: #f7f7f7;
     ),
     url(../img/nat-4.jpg);
   background-size: cover;
+  margin-top: -11.4rem;
+
+  transform: skewY(-7deg);
+
+  & > * {
+    transform: skewY(7deg);
+  }
 }
