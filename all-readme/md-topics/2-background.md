@@ -25,3 +25,15 @@ Code example 👇
   clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }
 ```
+
+## Sites to Generate Background
+
+1. [bennettfeely](https://bennettfeely.com/clippy//)
+
+![example](../md-images/18.png)
+
+---
+
+2. [shapedivider.app](https://www.shapedivider.app/)
+
+![example](../md-images/17.png)

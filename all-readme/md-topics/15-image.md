@@ -53,7 +53,7 @@ position: relative;
     }
 
     &:hover {
-      outline: 1.5rem solid $color-dark-green;
+      outline: 1.5rem solid $color-primary-dark;
       transform: scale(1.05) translateY(-0.5rem);
       box-shadow: 0 2.5rem 4rem rgba($color-black, 0.5);
       z-index: 20;

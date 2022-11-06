@@ -54,8 +54,8 @@ Code example 👇
   padding: 20rem 0;
   background-image: linear-gradient(
       to right bottom,
-      rgba($color-light-green, 0.8),
-      rgba($color-dark-green, 0.8)
+      rgba($color-primary, 0.8),
+      rgba($color-primary-dark, 0.8)
     ),
     url(../img/nat-4.jpg);
   background-size: cover;
@@ -92,8 +92,8 @@ Code example 👇
     margin-bottom: 0.5rem;
     background-image: linear-gradient(
       to right,
-      $color-light-green,
-      $color-dark-green
+      $color-primary,
+      $color-primary-dark
     );
     -webkit-background-clip: text;
     color: transparent;

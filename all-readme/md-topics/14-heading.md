@@ -14,8 +14,8 @@ Code example 👇
   display: inline-block;
   background-image: linear-gradient(
     to right,
-    $color-light-green,
-    $color-dark-green
+    $color-primary,
+    $color-primary-dark
   );
   -webkit-background-clip: text;
   color: transparent;
