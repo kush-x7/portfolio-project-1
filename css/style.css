@@ -193,9 +193,9 @@ body {
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 50rem; }
+  height: 52rem; }
   .card__side {
-    height: 50rem;
+    height: 52rem;
     width: 100%;
     transition: all 0.8s ease;
     color: white;
@@ -204,7 +204,6 @@ body {
     top: 0;
     left: 0;
     backface-visibility: hidden;
-    overflow: hidd;
     border-radius: 0.3rem;
     box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15); }
     .card__side--front {
@@ -228,20 +227,35 @@ body {
       background-image: url(../img/nat-5.jpg); }
     .card__picture--3 {
       background-image: url(../img/nat-5.jpg); }
-    .card__picture__heading {
-      font-size: 2.8rem;
-      font-weight: 300;
-      text-transform: uppercase;
-      color: #ffffff;
-      color: red;
-      position: absolute;
-      top: 12rem;
-      right: 2rem;
-      width: 75%; }
-    .card__picture__heading-span {
-      color: black; }
-      .card__picture__heading-span--1 {
-        background-image: linear-gradient(to right bottom, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)); }
+  .card__heading {
+    font-size: 2.8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: right;
+    position: absolute;
+    top: 12rem;
+    right: 2rem;
+    width: 75%; }
+  .card__heading-span {
+    padding: 1rem 1.5rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone; }
+    .card__heading-span--1 {
+      background-image: linear-gradient(to right bottom, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)); }
+  .card__details {
+    padding: 3rem; }
+    .card__details ul {
+      list-style: none;
+      margin: 0 auto;
+      width: 80%; }
+    .card__details li {
+      color: #777;
+      text-align: center;
+      font-size: 1.5rem;
+      padding: 1rem; }
+      .card__details li:not(:last-child) {
+        border-bottom: 1px solid #eee; }
 
 .feature-box {
   background-color: rgba(255, 255, 255, 0.8);

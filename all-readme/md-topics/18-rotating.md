@@ -1,8 +1,60 @@
+# Rotating Cards
+
+![example](../md-images/19.png)
+
+First we will be designing our front side of the card.
+
+## HTML Structure
+
+Code example 👇
+
+```
+ <div class="card">
+              <div class="card__side card__side--front">
+
+                    <div class="card__picture card__picture--1">&nbsp;</div>
+
+                    <h4 class="card__heading">
+                        <span class="card__heading-span card__heading-span--1"> The Sea Explorer </span>
+                    </h4>
+
+                    <div class="card__details">
+                        <ul>
+                            <li>3 day tours</li>
+                            <li>Up to 30 people</li>
+                            <li>2 tour guides</li>
+                            <li>Sleep in cray hotels</li>
+                            <li>Difficulty: easy</li>
+                        </ul>
+                    </div>
+              </div>
+
+              <div class="card__side card__side--back card__side--back-1">
+                Back
+              </div>
+            </div>
+</div>
+```
+
+## Css styling
+
+We will work on the functionality first. We learned some new CSS properties like `perspective`, `backface-visibility`, `background-blend-mode`
+
+- `box-decoration-break: clone;` will make the heading element to 2 different element
+
+- This thing will help us to rotate the card along y axis.
+
+```
+  &:hover &__side--front {
+    transform: rotateY(-180deg);
+  }
+```
+
+```
 .card {
   // Functionality
-  //   perspective in element
-  //   Lower the value more dramatic the effect will be
-  perspective: 150rem;
+
+  perspective: 150rem;  //   Lower the value more dramatic the effect will be, so better take higher value
   -moz-perspective: 150rem;
   position: relative;
   height: 52rem;
@@ -111,3 +163,4 @@
     }
   }
 }
+```

@@ -17,3 +17,4 @@
 15. [Images Gallery](md-topics//15-image.md)
 16. [Using Icons Font](md-topics/16-icons.md)
 17. [Third Section Cards and skewed background](md-topics/17-third-section.md)
+18. [Rotating Cards](md-topics/18-rotating.md)
