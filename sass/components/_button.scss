@@ -36,6 +36,15 @@
     }
   }
 
+  &--green {
+    background-color: $color-primary-light;
+    color: $color-white;
+
+    &:after {
+      background-color: $color-primary-light;
+    }
+  }
+
   &::after {
     content: "";
     display: inline-block;
@@ -78,10 +87,5 @@
   &:active {
     box-shadow: 0 0.5rem 1rem rgba($color-black, 0.15);
     transform: translateY(0);
-  }
-
-  &--green {
-    background-color: $color-primary-light;
-    color: #fff;
   }
 }
