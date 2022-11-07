@@ -79,6 +79,13 @@ We will work on the functionality first. We learned some new CSS properties like
       background-color: bisque;
       //   Flipping the back card before starting
       transform: rotateY(180deg);
+
+       &-1 {
+        background-image: linear-gradient(
+          to right bottom,
+          $color-secondary-light,
+          $color-secondary-dark
+        );
     }
   }
 
