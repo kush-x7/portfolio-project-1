@@ -1,4 +1,5 @@
 .btn {
+  &, // It means that the property will apply in .btn class also which is helpful in styling <button> elements too
   &:link,
   &:visited {
     text-transform: uppercase;
@@ -10,6 +11,10 @@
     transition: all 0.2s;
 
     position: relative;
+
+    // Making change for the button element <button>
+    border: none;
+    cursor: pointer;
   }
 
   &:hover {
@@ -22,7 +27,9 @@
     }
   }
 
-  &:active {
+  &:active,
+  &:focus {
+    // This is used for button element
     transform: translateY(-1px);
     box-shadow: 0 5px 10px rgba($color-black, 0.2);
   }
